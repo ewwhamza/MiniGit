@@ -3,7 +3,8 @@
 A lightweight version control system written in pure Java — Git's core ideas
 (content-addressed objects, snapshots, branches, diffs) built from scratch.
 
-See [docs/PRD.md](docs/PRD.md) for the full requirements and roadmap.
+See [SETUP.md](SETUP.md) to install and build it on a new machine, and
+[docs/PRD.md](docs/PRD.md) for the full requirements and roadmap.
 
 ## Requirements
 
